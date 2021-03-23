@@ -1,0 +1,17 @@
+border-color=#bd93f9
+border-size=2
+
+[urgency=low]
+background-color=#282a36
+text-color=#6272a4
+default-timeout=10000
+
+[urgency=normal]
+background-color=#282a36
+text-color=#bd93f9
+default-timeout=10000
+
+[urgency=high]
+background-color=#282a36
+text-color=#ffb86c
+default-timeout=0
