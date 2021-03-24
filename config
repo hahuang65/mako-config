@@ -1,4 +1,6 @@
-font=monospace 24
+font=monospace 18
+width=600
+height=300
 border-color=#bd93f9
 border-size=2
 
