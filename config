@@ -1,20 +1,20 @@
 font=monospace 18
 width=600
 height=300
-border-color=#bd93f9
+border-color=#414868
 border-size=2
 
 [urgency=low]
-background-color=#282a36
-text-color=#6272a4
+background-color=#24283b
+text-color=#565f89
 default-timeout=10000
 
 [urgency=normal]
-background-color=#282a36
-text-color=#bd93f9
+background-color=#24283b
+text-color=#2ac3de
 default-timeout=10000
 
 [urgency=high]
-background-color=#282a36
-text-color=#ffb86c
+background-color=#24283b
+text-color=#f7768e
 default-timeout=0
