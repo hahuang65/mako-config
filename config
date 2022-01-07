@@ -5,16 +5,16 @@ border-color=#C9CBFF
 border-size=2
 
 [urgency=low]
-background-color=#1E1E28
-text-color=#DFDEF1
+background-color=#1E1D2F
+text-color=#D9E0EE
 default-timeout=10000
 
 [urgency=normal]
-background-color=#1E1E28
-text-color=#92D2E8
+background-color=#1E1D2F
+text-color=#89DCEB
 default-timeout=10000
 
 [urgency=high]
-background-color=#1E1E28
-text-color=#E38C8F
+background-color=#1E1D2F
+text-color=#F28FAD
 default-timeout=0
