@@ -1,20 +1,21 @@
-font=monospace 18
+font=Iosevka 18
 width=600
 height=300
-border-color=#C9CBFF
 border-size=2
 
+# Colors
+background-color=#1e1e2e
+text-color=#cdd6f4
+border-color=#89b4fa
+progress-color=over #313244
+
 [urgency=low]
-background-color=#1E1D2F
-text-color=#D9E0EE
 default-timeout=10000
 
 [urgency=normal]
-background-color=#1E1D2F
-text-color=#89DCEB
 default-timeout=10000
 
 [urgency=high]
-background-color=#1E1D2F
+border-color=#fab387
 text-color=#F28FAD
 default-timeout=0
