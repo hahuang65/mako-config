@@ -15,7 +15,11 @@ default-timeout=10000
 [urgency=normal]
 default-timeout=10000
 
-[urgency=high]
+[urgency=critical]
 border-color=#fab387
 text-color=#F28FAD
 default-timeout=0
+
+[desktop-entry=org.mozilla.Thunderbird]
+ignore-timeout=1
+default-timeout=10000
